@@ -1,0 +1,5 @@
+print("STUDENT DETAILS")
+id=int(input("enter id"))
+name=input("enter name")
+marks=float(input("enter marks"))
+print("ID:",id,"NAME:",name,"MARKS:",marks)
